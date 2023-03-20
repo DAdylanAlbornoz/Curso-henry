@@ -1,2 +1,1 @@
-# Curso-henry
-modelo de prueba henry prep modulo2
+prueba de como crear un repositorio y clonarlo a la compu
